@@ -73,15 +73,15 @@ h1, h2, h3, h4, h5, h6 {
   border-right: 1px solid #eee;
 }
 
-#header .profile img {
+#header img {
   margin: 15px auto;
   display: block;
   width: 150px;
   height: 150px;
   border: 8px solid #2c2f3f;
-  background:url(/assets/img/profile-img.jpg) no-repeat;
+  /* background:url(/assets/img/profile-img.jpg) no-repeat;
   background-size:cover ;
-  background-position: center;
+  background-position: center; */
 }
 
 #header .profile h1 {
